@@ -9,8 +9,7 @@ Usually making totally random stuff because of being bored.
 
 ## Fun facts
 1) I hate rust/ruby very much, they're unreadable compared to other launguages.
-2) Very homophobic, at least I can hide it in most situations.
-3) I have a cute cat. Also, [click here](https://wipet.malwarewatch.org/), please.
+2) I have a cute cat. Also, [click here](https://wipet.malwarewatch.org/), please.
 
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=theairblow&show_icons=true&theme=algolia" alt="github status"/>
