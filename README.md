@@ -17,4 +17,4 @@ Usually making totally random stuff because of being bored.
 </a>
 
 
-###### Contact: [theairblow-help@gmail.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+###### Contact: [theairblow@gmail.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
