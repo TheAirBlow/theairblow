@@ -7,6 +7,9 @@ Usually making totally random stuff because of being bored.
 3) C/C++, tried to make an OS (totally random thought, and here we are)
 4) Java, but only basic Fabric mods of Spigot plugins. ~~I hate it.~~
 
+## Language Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAirBlow&layout=compact)
+
 ## Fun facts
 1) I hate rust/ruby very much, they're unreadable compared to other launguages.
 2) I have a cute cat. Also, [click here](https://wipet.malwarewatch.org/), please.
