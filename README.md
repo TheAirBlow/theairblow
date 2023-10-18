@@ -2,16 +2,16 @@
 Usually making totally random stuff because of being bored.
 
 ## What do I know?
-1) C# is my beloved. Decent knowledge of ASP.NET, Windows.Forms and Avalonia
-2) Javascript, mainly addon development. Very little knowledge of discord.js and express.
+1) C# my beloved. Decent knowledge of ASP.NET and the Unity game engine.
+2) Javascript, mainly addon and frontend development. Imagine having types!
 3) C/C++, tried to make an OS (totally random thought, and here we are)
-4) Java, but only basic Fabric mods of Spigot plugins. ~~I hate it.~~
+4) Java, have made a lot of Minecraft mods. ~~I hate it.~~
 
 ## Language Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAirBlow&layout=compact)
 
-## Fun facts
-1) I hate rust/ruby very much, they're unreadable compared to other launguages.
+## Opinions and stuff
+1) I absolutely hate rust and ruby, they're unreadable compared to other launguages.
 2) I have a cute cat. Also, [click here](https://wipet.malwarewatch.org/), please.
 
 <a>
