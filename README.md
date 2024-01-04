@@ -5,8 +5,8 @@ Usually making totally random stuff because of being bored.
 1) C# is the best. Decent knowledge of ASP.NET and the Unity game engine.
 2) JavaScript, mainly addon and frontend development. Imagine having types!
 3) C/C++, tried to make an OS (totally random thought, yet here we are)
-4) Java, I've made a lot of Minecraft mods. ~~I absolutely hate it.~~.
-5) The syscalls necessary for USB communication. Don't judge me!
+4) The syscalls necessary for USB communication. Don't judge me!
+5) Java, I've made a lot of Minecraft mods. ~~I absolutely hate it.~~.
 
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=theairblow&show_icons=true&theme=algolia" alt="github status"/>
