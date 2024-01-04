@@ -2,17 +2,11 @@
 Usually making totally random stuff because of being bored.
 
 ## What do I know?
-1) C# my beloved. Decent knowledge of ASP.NET and the Unity game engine.
-2) Javascript, mainly addon and frontend development. Imagine having types!
-3) C/C++, tried to make an OS (totally random thought, and here we are)
-4) Java, have made a lot of Minecraft mods. ~~I hate it.~~
-
-## Language Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAirBlow&layout=compact)
-
-## Opinions and stuff
-1) I absolutely hate rust and ruby, they're unreadable compared to other launguages.
-2) I have a cute cat. Also, [click here](https://wipet.malwarewatch.org/), please.
+1) C# is the best. Decent knowledge of ASP.NET and the Unity game engine.
+2) JavaScript, mainly addon and frontend development. Imagine having types!
+3) C/C++, tried to make an OS (totally random thought, yet here we are)
+4) Java, I've made a lot of Minecraft mods. ~~I absolutely hate it.~~.
+5) The syscalls necessary for USB communication. Don't judge me!
 
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=theairblow&show_icons=true&theme=algolia" alt="github status"/>
@@ -20,4 +14,4 @@ Usually making totally random stuff because of being bored.
 </a>
 
 
-###### Contact: [theairblow@gmail.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+###### Contact: [theairblow@gmail.com](https://cdn.sussy.dev/goober/donald_duigne.mp4)
