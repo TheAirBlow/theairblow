@@ -1,10 +1,11 @@
 ## Hello there! I am a fellow Russian that does things.
-Usually making totally random stuff because of being bored.
+Usually making totally random stuff because of being bored. \
+You can see more of my projects on [sussy.dev's GitLab](https://git.sussy.dev/explore).
 
 ## What do I know?
 1) C# is the best. Decent knowledge of ASP.NET and the Unity game engine.
 2) JavaScript, mainly addon and frontend development. Imagine having types!
-3) C/C++, tried to make an OS (totally random thought, yet here we are)
+3) C/C++, tried to make a kernel (totally random thought, yet here we are)
 4) The syscalls necessary for USB communication. Don't judge me!
 5) Java, I've made a lot of Minecraft mods. ~~I absolutely hate it.~~.
 
@@ -14,4 +15,4 @@ Usually making totally random stuff because of being bored.
 </a>
 
 
-###### Contact: [theairblow@gmail.com](https://cdn.sussy.dev/goober/donald_duigne.mp4)
+###### Contact: [theairblow@gmail.com](https://www.youtube.com/watch?v=TGdWw9XOFt4)
